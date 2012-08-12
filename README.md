@@ -1,4 +1,4 @@
-# Credit Card Validator
+# Credit Card Validator [![Build Status](https://secure.travis-ci.org/matthiassiegel/validator.png)](http://travis-ci.org/matthiassiegel/validator)
 
 Basic Ruby library and sample command line app that for validating credit card numbers.
 
