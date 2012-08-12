@@ -1,6 +1,6 @@
 # Credit Card Validator
 
-Basic library and sample command line app that for validating credit card numbers.
+Basic Ruby library and sample command line app that for validating credit card numbers.
 
 Validation includes two steps:
 
